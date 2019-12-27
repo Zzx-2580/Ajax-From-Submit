@@ -1,2 +1,2 @@
 # Ajax-From-Submit
-...
+Submit
